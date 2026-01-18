@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rqoNnQZptYnWSUFOh5CJcA
-! Version: 202601180111
+! Checksum: wdsJX/8gCLauR+WAWpeOQQ
+! Version: 202601180611
 ! Title: Fanboy's Social Blocking List
-! Last modified: 18 Jan 2026 01:11 UTC
+! Last modified: 18 Jan 2026 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11077,6 +11077,7 @@ cars.com##.global-footer-social-buttons
 tweaktown.com##.gnci
 phonearena.com##.gnews-wrapper
 oneindia.com##.goog-one-news
+militarywatchmagazine.com##.google--text
 bringmethenews.com,thehindu.com##.google-btn
 dailyartmagazine.com##.google-feed-row
 pcguide.com##.google-news
@@ -11170,6 +11171,7 @@ theenergymix.com##.jeg_custom_share_wrapper
 thelondoneconomic.com##.jeg_share_top_container
 news.abplive.com##.join-channels-wrap
 business2community.com##.join-tg
+businessday.ng##.join-whatsapp
 moneycontrol.com##.join_follow
 euronews.com##.js-c-article-partage-commentaire-share
 buzzfeed.com##.js-inline-share-bar
@@ -11720,6 +11722,7 @@ spacebar.news##.spacebar-auto-notice
 nordest24.it,portalpuentealto.cl,upinthesky.nl,watchinamerica.com##.spc-social
 energy-reporters.com##.spc-social-block
 douglasnow.com##.spc-social-follow
+republicworld.com##.sponsors-container
 visionguinee.info##.spu-bg
 visionguinee.info##.spu-box
 news.crunchbase.com##.ss-inline-share-content
@@ -11966,6 +11969,7 @@ webfail.com##[href^="http://twitter.com/intent/tweet"]
 newskarnataka.com,psypost.org##[href^="https://news.google.com/publications/"]
 goodyfeed.com##[href^="https://t.me/"]
 irishnews.com##[href^="https://whatsapp.com/channel/"]
+militarywatchmagazine.com##[href^="https://x.com/MilitaryWatchM"]
 colourlovers.com##a.mr-10.left > [src]
 telekom.com##a[title="Share"]
 thinkglobalhealth.org##button.hover\:bg-accent-social-button
