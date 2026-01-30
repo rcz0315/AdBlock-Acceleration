@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 998z3+gFa+8x8ErHjpF0iQ
-! Version: 202601300025
+! Checksum: nvLLWRR+9tUVnKqRoDVpmQ
+! Version: 202601300450
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-30 00:25 UTC
+! Last modified: 2026-01-30 04:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36300,6 +36300,7 @@ uphold.com##.dXDXdB
 aeon-fitness.com##.darkScreen
 systematica.com##.darken
 roundshot.com##.data-consent-edge
+bssmvalues.com##.data-consent-popup
 dashboard.stripe.com##.db-CookieBanner
 datacamp.com##.dc-cookie-banner-wrapper
 tesco.com##.ddsweb-cookies-notification__container
@@ -37571,7 +37572,7 @@ just-eat.ch,just-eat.fr,lieferando.at,lieferando.de,pyszne.pl,takeaway.com,thuis
 ! #cookiesjsr
 brightlands.com,cnmc.es,confea.org.br,elbitsystems.com,frequentis.com,gmv.com,gogel.org,iucn.org,iucncongress2025.org,land.nrw,mmkv.cz,portdebarcelona.cat,puertos.es,red.es,sagemcom.com,santiagodecompostela.gal,stadtlandwirtschaft.wien,tecnoalarm.com,thecommonwealth.org###cookiesjsr
 ! #cookieConsent
-abcsinsights.com,antena1.com.br,author.today,cellc.co.za,finstat.cz,finstat.sk,fortunebusinessinsights.com,julesjordan.com,kaveverzum.hu,kurz-mal-weg.de,lowellgroup.co.uk,lursoft.lv,monsterenergy.com,my.eekgames.com,myperfectweather.com,nova.es,psiphon.ca,seguno.com,tagesmutter-bz.it,thebestporn.com,timinis.com,vernemq.com,visitkamnik.com,yenibeygir.com###cookieConsent
+abcsinsights.com,antena1.com.br,author.today,cellc.co.za,finstat.cz,finstat.sk,fortunebusinessinsights.com,ikmultimedia.com,julesjordan.com,kaveverzum.hu,kurz-mal-weg.de,lowellgroup.co.uk,lursoft.lv,monsterenergy.com,my.eekgames.com,myperfectweather.com,nova.es,psiphon.ca,seguno.com,tagesmutter-bz.it,thebestporn.com,timinis.com,vernemq.com,visitkamnik.com,yenibeygir.com###cookieConsent
 ! .cookies-consent
 actie.degoedezaak.org,campax.org,controller.com,mrfdev.com,pelephone.co.il,voicemod.net##.cookies-consent
 ! #cookie-disclaimer
@@ -38725,7 +38726,7 @@ traqq.com##+js(set-cookie, CookieAccept, true)
 careers.ing.com,kytary.*##+js(set-cookie, CookieConsent, 0, , reload, 1)
 arera.it,haustier-berater.de,hfm-frankfurt.de##+js(set-cookie, CookieConsent, 1)
 bere.co.uk,hscollective.org,strmix.com##+js(set-cookie, CookieConsent, Necessary, , reload, 1)
-empathy.com,herzum.com,milvus.io,opayweb.com,tester.userbrain.com,vegvesen.no##+js(set-cookie, CookieConsent, false)
+empathy.com,herzum.com,meity.gov.in,milvus.io,opayweb.com,tester.userbrain.com,vegvesen.no##+js(set-cookie, CookieConsent, false)
 blaguss.com,kontextwochenzeitung.de,oekolandbau.de,shg-kliniken.de##+js(set-cookie, CookieConsent, mandatory)
 srf.nu##+js(set-cookie, CookieConsent, necessary)
 jku.at##+js(set-cookie, CookieConsent, required)
@@ -38980,7 +38981,7 @@ d5render.com##+js(set-cookie, accept_cookie_flag, 1)
 dotwatcher.cc,greenpandagames.com##+js(set-cookie, accept_cookie_policy, true)
 nhghealth.com.sg##+js(set-cookie, accept_cookies, 0)
 bimedis.com##+js(set-cookie, accept_cookies, 1)
-anker.com,ankersolix.com,freshis.com,reforge.com,triviacreator.com##+js(set-cookie, accept_cookies, accepted)
+anker.com,ankersolix.com,freshis.com,reforge.com,store.pw.live,triviacreator.com##+js(set-cookie, accept_cookies, accepted)
 bio-hoflieferant.de##+js(set-cookie, accept_cookies, yes, , reload, 1)
 ahorn24.de##+js(set-cookie, accept_cookies2, true, , reload, 1)
 motoblouz.*##+js(set-cookie, accept_cookies_rgpd, 1, , reload, 1)
@@ -39761,6 +39762,7 @@ fantasypros.com##+js(set-cookie, fp_policy, 1)
 royalhuisman.com##+js(set-cookie, framework_cookies_date, 1, , reload, 1)
 frog.co##+js(set-cookie, frogHideGDPRBanner, true)
 frontieresmedia.fr##+js(set-cookie, frtnrs_consent, true)
+popcornflix.com##+js(set-cookie, ft_gdprUserConsent, yes)
 pubgesports.com##+js(set-cookie, functional, N)
 cellcolabsclinical.com,starlux-airlines.com##+js(set-cookie, functionalCookie, true)
 puratos.*##+js(set-cookie, functionalCookieAccepted, true)
@@ -39815,6 +39817,7 @@ meiosepublicidade.pt##+js(set-cookie, gdpr_consent, true)
 meiosepublicidade.pt##+js(set-cookie, gdpr_consent-legacy, true)
 bsi.si##+js(set-cookie, gdpr_cookie, functional, , reload, 1)
 reliant.co.uk##+js(set-cookie, gdpr_cookie_consent, 1)
+openweathermap.org##+js(set-cookie, gdpr_cookie_consent, declined)
 reliant.co.uk##+js(set-cookie, gdpr_cookie_groups, 1)
 petcity.lt##+js(set-cookie, gdpr_cookie_token, 1)
 iconoclasts.blog##+js(set-cookie, gdpr_decline, 1)
@@ -40086,6 +40089,7 @@ scheidegger.nl##+js(set-cookie, privacy_level, 1)
 lojaboschferramentas.com.br##+js(set-cookie, privacy_marketing, false)
 mobilevikings.be##+js(set-cookie, privacy_mv, 1)
 pixiv.net##+js(set-cookie, privacy_policy_agreement, 7, , reload, 1)
+y8.com##+js(set-cookie, privacy_policy_validated, true)
 orszak.org##+js(set-cookie, privacy_popup, true, , reload, 1)
 temu.com##+js(set-cookie, privacy_setting, 100)
 ledenicheur.fr,pricespy.co.nz,pricespy.co.uk,projectenglish.com.pl##+js(set-cookie, privacy_settings, 1)
@@ -40333,6 +40337,7 @@ manuals.annafreud.org##+js(set-local-storage-item, COOKIE_CONSENT, no)
 cpc2r.ch##+js(set-local-storage-item, CPCCookies, true)
 akkushop-turkiye.com.tr##+js(set-local-storage-item, CerezUyariGosterildi, true)
 teamtailor.com##+js(set-local-storage-item, CookieConsent--hideCookieConsent, true)
+ascension.gg##+js(set-local-storage-item, CookieConsent_v2, false)
 alfa.com.ec,rts.com.ec,tropicalida.com.ec##+js(set-local-storage-item, CookiesConsent, 1)
 typeform.com##+js(set-local-storage-item, CustomCookieBannerAcceptIntent, true)
 withpersona.com##+js(set-local-storage-item, Do-not-share, true)
@@ -40444,10 +40449,13 @@ abastible.cl##+js(set-local-storage-item, cookie-accepted, true)
 everest-24.pl##+js(set-local-storage-item, cookie-closed, true)
 todoist.com##+js(set-local-storage-item, cookie-consent, '"denied"')
 cua.ai##+js(set-local-storage-item, cookie-consent, accepted)
+addonup.com##+js(set-local-storage-item, cookie-consent, declined)
 emergetools.com##+js(set-local-storage-item, cookie-consent, false)
 atlas.workland.com,jmonline.com.br,virginexperiencedays.co.uk##+js(set-local-storage-item, cookie-consent, true)
 lustery.com##+js(set-local-storage-item, cookie-consent-banner, declined)
 optionsgroup.com##+js(set-local-storage-item, cookie-consent-declined-version, 1)
+justinguitar.com##+js(set-local-storage-item, cookie-consent-status, closed)
+skynet.certik.com##+js(set-local-storage-item, cookie-consent-v2, false)
 ytj.fi##+js(set-local-storage-item, cookie-neta, false)
 evernote.com##+js(set-local-storage-item, cookie-notice-dismissed, true)
 datamask.app,humandataincome.com##+js(set-local-storage-item, cookie-permission, false)
@@ -40466,6 +40474,7 @@ lemwarm.com##+js(set-local-storage-item, cookieClosed, true)
 ajanvaraus.idealinspect.fi##+js(set-local-storage-item, cookieConsent, 0)
 cryptofalka.hu,sneakerfreaker.com##+js(set-local-storage-item, cookieConsent, 1)
 min.io##+js(set-local-storage-item, cookieConsent, accepted)
+luvvoice.com##+js(set-local-storage-item, cookieConsent, declined)
 opmaatzagen.nl##+js(set-local-storage-item, cookieConsent, denied)
 unisa.ac.za##+js(set-local-storage-item, cookieConsent, essential)
 deribit.com,dorkgpt.com,foodvessel.com,kyutai.org,lazyrecords.app,unmute.sh,varusteleka.com##+js(set-local-storage-item, cookieConsent, false)
@@ -40526,6 +40535,7 @@ dev.near.org##+js(set-local-storage-item, cookiesAcknowledged, 1)
 bazaartracker.com##+js(set-local-storage-item, cookiesAgree, true)
 studiobookr.com##+js(set-local-storage-item, cookiesAllowed, false)
 romeo.com##+js(set-local-storage-item, cookiesConsent, 1)
+zimaspace.com##+js(set-local-storage-item, cookiesConsent, rejected)
 kokku-online.de##+js(set-local-storage-item, cookiesMin, 1)
 kick.com##+js(set-local-storage-item, cookies_accepted, true)
 ultraleds.co.uk##+js(set-local-storage-item, cookies_accepted_6pzworitz8, true)
@@ -40541,6 +40551,7 @@ cvut.cz##+js(set-local-storage-item, ctu-cm-a, 0)
 cvut.cz##+js(set-local-storage-item, ctu-cm-m, 0)
 cvut.cz##+js(set-local-storage-item, ctu-cm-n, 1)
 bbc.com##+js(set-local-storage-item, cvcConsentGiven, true)
+bssmvalues.com##+js(set-local-storage-item, dataConsentChoice, declined)
 pancernik.eu##+js(set-local-storage-item, df-cookies-allowed, true)
 polypane.app##+js(set-local-storage-item, dismissed, true)
 octopusenergy.co.jp##+js(set-local-storage-item, dismissedPrivacyCookieMessage, 1)
@@ -41214,6 +41225,9 @@ computerbase.de##+js(set-cookie, OptanonAlertBoxClosed, 1)
 ! reddit
 reddit.com###data-protection-consent-dialog
 reddit.com##body:style(overflow: auto !important;)
+! scan.co.uk
+scan.co.uk##.s-theme
+scan.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 ! clasohlson.com
 clasohlson.com##+js(set-cookie, cookie-notification, ACCEPTED)
 ! konsument.at
