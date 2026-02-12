@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OlZEwxKWIEJ48zdYYhgglQ
-! Version: 202602121242
+! Checksum: Hk6KOYiLydFuihg3nJak0A
+! Version: 202602121841
 ! Title: Fanboy's Social Blocking List
-! Last modified: 12 Feb 2026 12:42 UTC
+! Last modified: 12 Feb 2026 18:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12886,6 +12886,7 @@ play.radionorba.it##share-view
 !
 !---------- Japanese Specific Media Elements ----------
 !
+nlab.itmedia.co.jp###my_social_top
 blog.esuteru.com##.article-button-simple
 bizgate.nikkei.com##.c-single-sns
 seikatsusha-ddm.com##.p-under-sns
