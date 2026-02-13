@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z4sbhkHGaF1mkpIytSzMGA
-! Version: 202602130642
+! Checksum: ShV5KgRa4SnYhpQm+44z3w
+! Version: 202602131231
 ! Title: Fanboy's Social Blocking List
-! Last modified: 13 Feb 2026 06:42 UTC
+! Last modified: 13 Feb 2026 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11888,6 +11888,7 @@ motorsport.tv##.vjs-icons-bar
 dailymail.co.uk##.vjs-social-controls
 amgreatness.com##.w-full.mb-10
 invisibleoranges.com##.w-shared-socials
+polygon.com##.w-sharing-bottom
 androidpolice.com##.w-social-follow-button
 deccanherald.com##.wCRP0
 thesfnews.com##.wa__btn_popup
