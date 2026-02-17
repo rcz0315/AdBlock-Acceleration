@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MM2+NNqKz3BFq+xOEsp2yg
-! Version: 202602161822
+! Checksum: Rj78ZWVliWO945NtyZW7Ug
+! Version: 202602170121
 ! Title: Fanboy's Social Blocking List
-! Last modified: 16 Feb 2026 18:22 UTC
+! Last modified: 17 Feb 2026 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10762,6 +10762,7 @@ crn.com##.border-all-mid-gray-rounded
 ofbez.com##.box-fixed-subscription
 cardiff.ac.uk##.box-services
 bangkokpost.com##.boxnav--social
+essentiallysports.com##.brand-google-news-banner_link__NsLkA
 businessinsider.com##.brands-social
 oilprice.com##.breakingNews__socialMedia
 coxautoinc.com##.breathe
@@ -13640,6 +13641,7 @@ gala.fr#@#.share-bottom
 bitly.com,knivesout.jp#@#.share-btn
 ida2at.com#@#.share-holder
 app.degoo.com#@#.share-icon-container
+seher.no#@#.share-icons-bottom
 pornhub.com#@#.share-link-container
 baidu.com,findagrave.com,locataire.dossierfacile.logement.gouv.fr#@#.share-list
 deezer.com#@#.share-message
