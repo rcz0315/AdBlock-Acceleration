@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602230653
+! Version: 202602231235
 ! Title: EasyPrivacy
-! Last modified: 23 Feb 2026 06:53 UTC
+! Last modified: 23 Feb 2026 12:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 53732109dbcded8b8810207f13c6beb06cc9cfab
+! Commit: 6c6eb11be7a21c4519200df0b467fb235ad50844
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1079,6 +1079,7 @@
 /gc?refurl=
 /gcount.pl?
 /gd_tracker_events.js
+/gdm-user-insights.js
 /gemius.3.15.js
 /gemius.js
 /gen204/*
