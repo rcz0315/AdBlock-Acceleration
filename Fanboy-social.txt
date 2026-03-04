@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gPWrCp0YJrbxGrmWScSEtA
-! Version: 202603040111
+! Checksum: 1Y9Orksu6L4v5DsuJHd43Q
+! Version: 202603040631
 ! Title: Fanboy's Social Blocking List
-! Last modified: 04 Mar 2026 01:11 UTC
+! Last modified: 04 Mar 2026 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10581,7 +10581,7 @@ earth.com##.Footer_social_bar__E9yGn
 indianexpress.com##.G-folow-button
 meduza.io##.GeneralMaterial-module-share
 newsweek.com##.GooglePreferredSourceBanner_container__4kWoo
-themirror.com##.GooglePreferredSource_wrapper__lSRA6
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.GooglePreferredSource_wrapper__lSRA6
 bdnews24.com##.HeaderTopSocialIcon
 cnbc.com##.HighlightShare-container
 cnbc.com##.HighlightShare-styles-makeit-container--QcXaz
