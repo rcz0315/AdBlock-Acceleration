@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604030137
+! Version: 202604030654
 ! Title: EasyPrivacy
-! Last modified: 03 Apr 2026 01:37 UTC
+! Last modified: 03 Apr 2026 06:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ba9126856d0a5661d86c669eb2438f7964a8726f
+! Commit: 1ade8f851ea7acd3d507d071f05d59120e3e304e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2003,6 +2003,7 @@
 /rkrt_tracker-viajs.php
 /rm-gtm-google-analytics-for-wordpress/js/gtm-player.js
 /rm.gif?
+/rmkt/collect/*
 /rmntracking.js
 /rnb/events
 /rntracking.js
