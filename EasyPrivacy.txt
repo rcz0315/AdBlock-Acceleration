@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604040648
+! Version: 202604041227
 ! Title: EasyPrivacy
-! Last modified: 04 Apr 2026 06:48 UTC
+! Last modified: 04 Apr 2026 12:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bb7f6e4b9e502dca8b68f3308cbd9585f48b0232
+! Commit: 12194670e98d114153bbc11bbdc85c5c555e5d0d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -53180,6 +53180,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||tapi.kaufda.de^
 ||tarnkappe.info^$ping
 ||taz.de/count/
+||telemetry.portal.voltdeutschland.org^
 ||teltarif.de/scripts/ttt.js
 ||teltarif.de/scripts/ttt.v2.js
 ||teltarif.de^$ping
