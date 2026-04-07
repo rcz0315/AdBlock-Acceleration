@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604071256
+! Version: 202604071842
 ! Title: EasyPrivacy
-! Last modified: 07 Apr 2026 12:56 UTC
+! Last modified: 07 Apr 2026 18:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7066e2f1cfa14f56d17a355fa4bdc94ac4a2139a
+! Commit: 6135e128a31a8d63332afed5a349321e62752df7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1611,6 +1611,7 @@
 /neoworx_tracker.php
 /netmining.js
 /netresults.js
+/network-analytics.js
 /neustar.beacon.js
 /new-client/trackers.
 /new-relic.js
