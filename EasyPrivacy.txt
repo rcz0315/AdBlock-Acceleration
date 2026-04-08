@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604071842
+! Version: 202604080126
 ! Title: EasyPrivacy
-! Last modified: 07 Apr 2026 18:42 UTC
+! Last modified: 08 Apr 2026 01:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6135e128a31a8d63332afed5a349321e62752df7
+! Commit: b0c9c5e3cf72ff3cf3396f49bfce2a4a4bb58acd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7533,6 +7533,7 @@ omni.soundestlink.com$image
 ||hustlercoach.com^
 ||hybridburst.com^
 ||hydraconcept.com^
+||hypercarart.com^
 ||hyperlegend.com^
 ||hypnoticwound.com^
 ||hystericalcloth.com^
@@ -8781,6 +8782,7 @@ omni.soundestlink.com$image
 ||withsounds.com^
 ||wittypopcorn.com^
 ||wizardbuck.com^
+||wizardstrategy.com^
 ||wondermakings.com^
 ||wordchip.com^
 ||workhorsefunds.com^
