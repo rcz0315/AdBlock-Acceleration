@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604160151
+! Version: 202604160705
 ! Title: EasyPrivacy
-! Last modified: 16 Apr 2026 01:51 UTC
+! Last modified: 16 Apr 2026 07:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 34b4bbbe05a9ed4ae6c835a244fab476d9c972eb
+! Commit: c210ff4f43233aebe867cdadf1a8949d7bf03281
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -6243,6 +6243,7 @@ omni.soundestlink.com$image
 ||uptrendsdata.com^$third-party
 ||uralweb.ru^$third-party
 ||urlbrief.com^$third-party
+||urldefense.com^$third-party
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
 ||useinsider.com^$third-party
