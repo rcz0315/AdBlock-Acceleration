@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OImMtLPknbLKfhSyz/2/Sw
-! Version: 202604190152
+! Checksum: MCs0pqTJKSD9Ji8DhMLoyA
+! Version: 202604190702
 ! Title: Fanboy's Social Blocking List
-! Last modified: 19 Apr 2026 01:52 UTC
+! Last modified: 19 Apr 2026 07:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11110,6 +11110,7 @@ bringmethenews.com,thehindu.com##.google-btn
 responsiblestatecraft.org##.google-cta
 responsiblestatecraft.org##.google-cta-infy
 dailyartmagazine.com##.google-feed-row
+faroutmagazine.co.uk##.google-follow
 pcguide.com##.google-news
 crypto.news##.google-news-banner
 coinedition.com##.google-news-block
@@ -11574,6 +11575,7 @@ newsroom.co.nz##.sharing-anchor
 cjr.org##.sharing-buttons
 thekitchenmagpie.com##.sharing-cta
 dagens.com##.sharing-element
+faroutmagazine.co.uk##.sharing-sidebar
 al-watan.com,qatar-tribune.com##.sharingColumn
 glassalmanac.com##.shhr-btn
 thefreedictionary.com##.shr-facebook
