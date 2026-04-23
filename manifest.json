@@ -1,107 +1,107 @@
 {
-  "updatedAt": "2026-04-23T07:26:10.738Z",
+  "updatedAt": "2026-04-23T13:10:25.318Z",
   "files": [
     {
       "file": "AdGuard_Simplified_Domain_Names_Filter.txt",
-      "bytes": 3902349,
-      "mtime": "2026-04-23T07:25:40.099Z",
-      "sha256": "7d95cf80acb4545886a3b37006968651b9a5b5246780f5c746caaf72bee26c57"
+      "bytes": 3903695,
+      "mtime": "2026-04-23T13:09:54.599Z",
+      "sha256": "8604f47b7c1cfcfc4d741f4aec586e09ffe7222a879a8eda67cc1d6439abe41a"
     },
     {
       "file": "Anti_AD_Easylist.txt",
       "bytes": 2172222,
-      "mtime": "2026-04-23T07:25:40.584Z",
+      "mtime": "2026-04-23T13:09:54.989Z",
       "sha256": "f94d1d8acb2bc8792971360839294bef701715b38b6f0a35564d3105a829ed5a"
     },
     {
       "file": "EasyList_China.txt",
-      "bytes": 551469,
-      "mtime": "2026-04-23T07:25:40.920Z",
-      "sha256": "292d08d1934d5f3494a3ef440ade840c3bae215e22ec4c9543af46fe1157711c"
+      "bytes": 551517,
+      "mtime": "2026-04-23T13:09:55.146Z",
+      "sha256": "62c91037680bd515f5ceee024ad560115773c5cecb34e6c8eaf921d6787b6243"
     },
     {
       "file": "EasyPrivacy.txt",
-      "bytes": 1480583,
-      "mtime": "2026-04-23T07:25:41.009Z",
-      "sha256": "9c3d5341d4b35a797a4f8c3c64353c8b6dfd4e49ce4e4b2c156e5652a3920ca5"
+      "bytes": 1480680,
+      "mtime": "2026-04-23T13:09:55.367Z",
+      "sha256": "6d0343d78195cf262c5709d98ab377d7fa4ee54137c9ae9274842105e6666cab"
     },
     {
       "file": "HalfLife.txt",
       "bytes": 599854,
-      "mtime": "2026-04-23T07:25:53.701Z",
+      "mtime": "2026-04-23T13:10:08.521Z",
       "sha256": "53a81041ce2d674acf8f75e865915799fc091095b420cf858beb7e80e613f745"
     },
     {
       "file": "CJX's_Annoyance_List.txt",
       "bytes": 56906,
-      "mtime": "2026-04-23T07:26:07.153Z",
+      "mtime": "2026-04-23T13:10:21.386Z",
       "sha256": "ebf51c08077d48dfeb09f6436c20ee4c99ddfa0a17401e5160d88a9b2662f1b9"
     },
     {
       "file": "Xinggsf_rule.txt",
       "bytes": 28271,
-      "mtime": "2026-04-23T07:26:07.811Z",
+      "mtime": "2026-04-23T13:10:21.490Z",
       "sha256": "6b8689841aeac8b2c08082e6f22772c310559a4bfed78e18c0bd3d3a6a07492d"
     },
     {
       "file": "Xinggsf_mv.txt",
       "bytes": 6533,
-      "mtime": "2026-04-23T07:26:07.847Z",
+      "mtime": "2026-04-23T13:10:21.588Z",
       "sha256": "1165b91dd489b438c1d99de65c259d15cf5c406b2d8bfcebdb3aa794f129ebf8"
     },
     {
       "file": "Fanboy-social.txt",
       "bytes": 388967,
-      "mtime": "2026-04-23T07:26:09.441Z",
-      "sha256": "562f4957b543f5c5ee7bb5a73795c6ef9e62a8b2092e005ae9a3d693981cf517"
+      "mtime": "2026-04-23T13:10:23.096Z",
+      "sha256": "388e603ff8cc65f096ccced04d041400707b94d1b3277308d73aa336226326b3"
     },
     {
       "file": "ADgk.txt",
       "bytes": 359468,
-      "mtime": "2026-04-23T07:26:09.529Z",
+      "mtime": "2026-04-23T13:10:23.218Z",
       "sha256": "4f638ae80d54a062c01275c972f8a4cbc5ab83084acccd9e28f249fdb89d72e8"
     },
     {
       "file": "ds_hosts.txt",
       "bytes": 49407,
-      "mtime": "2026-04-23T07:26:09.568Z",
+      "mtime": "2026-04-23T13:10:23.294Z",
       "sha256": "061f79539890ca296f6492a0687b4b6eca780544da9b437756e881291214788e"
     },
     {
       "file": "1024_hosts.txt",
       "bytes": 89085,
-      "mtime": "2026-04-23T07:26:09.643Z",
+      "mtime": "2026-04-23T13:10:23.442Z",
       "sha256": "d98a3dbc555523531346fee5d41e88a442d4734315681d5258997bc8510e49df"
     },
     {
       "file": "iPv4_hosts.txt",
       "bytes": 473178,
-      "mtime": "2026-04-23T07:26:09.766Z",
+      "mtime": "2026-04-23T13:10:23.876Z",
       "sha256": "0c7422f2f0d7a47a94db562b1a7088fc538039743b4b6b9dff1f9c7770eec746"
     },
     {
       "file": "Steven_hosts",
       "bytes": 2607530,
-      "mtime": "2026-04-23T07:26:09.824Z",
+      "mtime": "2026-04-23T13:10:24.075Z",
       "sha256": "6ef2f592bc23b9ab9f62659a53972efae404a27913d6e4dfb1633bce574bbbe1"
     },
     {
       "file": "Hblock_hosts",
       "bytes": 13350920,
-      "mtime": "2026-04-23T07:26:10.094Z",
+      "mtime": "2026-04-23T13:10:24.468Z",
       "sha256": "5208f1df5df9cf5dc21cc60ff6a303c828d933b17030c38ea7ae09a757c2b671"
     },
     {
       "file": "antiadblockfilters.txt",
       "bytes": 67779,
-      "mtime": "2026-04-23T07:26:10.227Z",
-      "sha256": "249f0eb481f87e5bca9652530723bd43b33b1a82c67dd42b9c68065c4694d2ec"
+      "mtime": "2026-04-23T13:10:24.576Z",
+      "sha256": "9a45a38d0b33ca35c6559a583c1f70616bee196adafc6cd7768ff6adfb6a3bae"
     },
     {
       "file": "fanboy-annoyance.txt",
-      "bytes": 2082056,
-      "mtime": "2026-04-23T07:26:10.507Z",
-      "sha256": "ed29fe24a5a280441f52f888a661b18ce6d094be84884e5021e3bb06214dee24"
+      "bytes": 2082345,
+      "mtime": "2026-04-23T13:10:24.951Z",
+      "sha256": "9a4f6ce4f9744f706628c1b9e74a340deb340176cec9a0c09fc8cadc531e2dcc"
     }
   ]
 }
