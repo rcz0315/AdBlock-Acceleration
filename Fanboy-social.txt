@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LvYg6c7ol6MfMrA4+CIE1w
-! Version: 202604221852
+! Checksum: eQ2Pm1eO0wPfYNe+Xsj+vQ
+! Version: 202604230151
 ! Title: Fanboy's Social Blocking List
-! Last modified: 22 Apr 2026 18:52 UTC
+! Last modified: 23 Apr 2026 01:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12114,6 +12114,7 @@ houstonchronicle.com,nhregister.com,registercitizen.com,sfchronicle.com,sfgate.c
 ign.com#?#.promo-card:has-text(Follow us!)
 jacobin.com#?#.po-fr__heading:has-text(Share this article)
 lifenews.com#?#.post_style_zk > p:has-text(Please subscribe)
+livpost.co.uk#?#.kg-align-center.kg-button-card:has-text(Share this story)
 nbcsports.com#?#p.cms-textAlign-center:has-text(follow NBC Sports)
 newskarnataka.com#?#.elementor-button-wrapper:has-text(Social Media)
 newsroom.ucla.edu#?#.promo-card-muted:has-text(RSS feed)
