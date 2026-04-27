@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JFpchp/V/BakUvMglA31Aw
-! Version: 202604270801
+! Checksum: kFVlKQHnqJJsDo9VzAZElA
+! Version: 202604271311
 ! Title: Fanboy's Social Blocking List
-! Last modified: 27 Apr 2026 08:01 UTC
+! Last modified: 27 Apr 2026 13:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10455,6 +10455,7 @@ tasteofhome.com###gch-social-icons
 birdsandblooms.com,familyhandyman.com,rd.com,thehealthy.com###gch-social-share-container
 geekdashboard.com###gd-social-widget
 ndtv.com###googelPref
+sltrib.com###google-preferred
 seattletimes.com###google-preferred-btn
 bleedingcool.com###google_follow
 wccftech.com###google_preferred_source_box
