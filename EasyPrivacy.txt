@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604300205
+! Version: 202604300803
 ! Title: EasyPrivacy
-! Last modified: 30 Apr 2026 02:05 UTC
+! Last modified: 30 Apr 2026 08:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ecf2d2dd2e95a0f72420392f809b8b9d70792412
+! Commit: 4d3fd073b6bd3fb5d38ee51fbe82f14f29c82426
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7662,7 +7662,6 @@ omni.soundestlink.com$image
 ||kernellife.com^
 ||kidpowers.com^
 ||kindasingle.com^
-||kindhush.com^$~xmlhttprequest
 ||kindlereunion.com^
 ||kitetuning.com^
 ||kittentacos.com^
@@ -17144,7 +17143,6 @@ usatoday.com##+js(set, gnt.x.adm, '')
 ! noopjson
 ||acustomizedgift.com^$redirect=noopjs,script
 ||inventorycache.com^$redirect=noopjs,script
-||kindhush.com^$redirect=noopjson,xmlhttprequest
 ||oceancloudhosts.com^$redirect=noopjson,xmlhttprequest
 ||ubiquitoussea.com^$redirect=noopjs,script
 ! anikore.jp

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VQWbJXGwuVumD12FwLVICQ
-! Version: 202604300201
+! Checksum: BRbJk1dgIbBI9/CZFxtinQ
+! Version: 202604300752
 ! Title: Fanboy's Social Blocking List
-! Last modified: 30 Apr 2026 02:01 UTC
+! Last modified: 30 Apr 2026 07:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10754,6 +10754,7 @@ beebom.com##.beebom-social-share
 gobankingrates.com##.between-share-and-author
 firstpost.com##.bg-mail
 beincrypto.com##.bg-primary-blue
+whattowatch.com##.bg-secondary-950
 libdems.org.uk##.bg-twitter
 military.com##.block--addtoanyadv
 csis.org##.block--social-sharing
