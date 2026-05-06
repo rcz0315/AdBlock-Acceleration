@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AWCamc4nLIaP1754Twtp0Q
-! Version: 202605051852
+! Checksum: QSsPurywd6tGKb9VnmfMbg
+! Version: 202605060202
 ! Title: Fanboy's Social Blocking List
-! Last modified: 05 May 2026 18:52 UTC
+! Last modified: 06 May 2026 02:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10384,6 +10384,7 @@ _social_footer_
 ! *** easylist:fanboy-addon/fanboy_social_specific_hide.txt ***
 ! fanboy_social_specific_hide.txt
 iflscience.com###FollowOnGoogleNewsBtn
+sfgate.com###HP-Sig-ChronFunds
 rockmods.net###LinkList76
 vnews.com###NNEsharearea
 catholicculture.org###SM_area
@@ -10486,6 +10487,7 @@ fia.com###page-pre-footer
 seohorsesense.com###panel-3
 mondediplo.com###partage
 loveandlemons.com###pinthispage
+globenewswire.com###pnr-global-social-media-sidebar-section
 jacobin.com###post-footer-share
 jacobin.com###post-header-share
 mediaite.com###post-social
