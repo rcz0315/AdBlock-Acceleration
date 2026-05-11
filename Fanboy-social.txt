@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9Vtf9G180V97H27jGmmFRw
-! Version: 202605110221
+! Checksum: zAhlppes0vdKDp6Oi4fdbA
+! Version: 202605110912
 ! Title: Fanboy's Social Blocking List
-! Last modified: 11 May 2026 02:21 UTC
+! Last modified: 11 May 2026 09:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10405,6 +10405,7 @@ scoop.co.nz###article-tools
 dailymail.co.uk###articleIconLinksContainer
 fastcompany.com###article_share_button
 theepochtimes.com###article_top_right_share_btn
+attitude.co.uk###att-unique-wrapper-2026
 bleedingcool.com###bc_sharing_is_caring
 weisradio.com###block-37
 fightcancer.org###block-boxes-social-header
@@ -11868,6 +11869,8 @@ davidlebovitz.com,jessicagavin.com##.swp_share_button
 biographics.org,creativelawcenter.com,dcrainmaker.com,elements.visualcapitalist.com,marktechpost.com,msmagazine.com,podwatch.io,stuffparentsneed.com,toptenz.net##.swp_social_panel
 stuffparentsneed.com##.swp_social_panelSide
 targettrend.com##.sws_supernormalaction
+interestingengineering.com##.t-w-\[128px\]
+interestingengineering.com##.t-w-\[200px\]
 toucharcade.com##.ta_followWidget
 gamingbolt.com##.tag-social-media
 notthebee.com##.take-shareables
@@ -11995,6 +11998,7 @@ lithub.com##.widget_twitter_timeline
 whats-on-netflix.com##.widget_won_google_preferred_widget
 fandom.com##.wikia-bar-anon
 windowslatest.com##.wl-floatbar
+whats-on-netflix.com##.won-rec-tags-strip--social
 project-management.com##.wp-block-bssb-social-share
 destructoid.com##.wp-block-gamurs-footer-nav__website-info__socials
 hsph.harvard.edu##.wp-block-hsph-sharing
