@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c+qYm5VpZpmUM3CUiVTrAw
-! Version: 202605101125
+! Checksum: v+3Iz3VP57OZ8zjAVg18kQ
+! Version: 202605110150
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-05-10 11:25 UTC
+! Last modified: 2026-05-11 01:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16423,6 +16423,7 @@ techissuestoday.com#?#.mar-b-6:has-text(Follow Us)
 thedispatch.com#?#.border-y.py-2:has-text(Share)
 theguardian.com#?#.dcr-4gwv1z > ul:has-text(Get our)
 theintercept.com#?#[data-ga-track-action]:has-text(Join The Conversation)
+thenarwhal.ca#?#.text-and-button__container:has-text(Add The Narwhal)
 theshovel.com.au#?#.padding-top-small > .widgetizedArea:has-text(Like this)
 tvblackbox.com.au#?#.tdm-descr:has-text(Share)
 twitch.tv#?#.tw-balloon:has-text(Share To)

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mfDWheMLC5qPfM2H5MkiUw
-! Version: 202605101841
+! Checksum: 9Vtf9G180V97H27jGmmFRw
+! Version: 202605110221
 ! Title: Fanboy's Social Blocking List
-! Last modified: 10 May 2026 18:41 UTC
+! Last modified: 11 May 2026 02:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12163,6 +12163,7 @@ techissuestoday.com#?#.mar-b-6:has-text(Follow Us)
 thedispatch.com#?#.border-y.py-2:has-text(Share)
 theguardian.com#?#.dcr-4gwv1z > ul:has-text(Get our)
 theintercept.com#?#[data-ga-track-action]:has-text(Join The Conversation)
+thenarwhal.ca#?#.text-and-button__container:has-text(Add The Narwhal)
 theshovel.com.au#?#.padding-top-small > .widgetizedArea:has-text(Like this)
 tvblackbox.com.au#?#.tdm-descr:has-text(Share)
 twitch.tv#?#.tw-balloon:has-text(Share To)
