@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pBokjDI3osBRmFbaFGDz4Q
-! Version: 202605160200
+! Checksum: evagqmVQSqRv99uK3lsUiQ
+! Version: 202605160350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-05-16 02:00 UTC
+! Last modified: 2026-05-16 03:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36364,6 +36364,7 @@ pinpointproperties.com##.cookie-authority
 whitepages.com##.cookie-banner-container
 team.repair##.cookie-banner-inner
 businesscomparison.com##.cookie-banner-mask
+powerbox-systems.com##.cookie-banner-overlay
 aerofilms.cz,uxcel.com##.cookie-banner-wrap
 thewhitecompany.com##.cookie-banner__dimmer
 surferseo.com##.cookie-banner_component
@@ -49740,6 +49741,7 @@ theasianparent.com##.newsletter-subscribe-card-warp
 itnews.com.au##.newsletter-subscribe-container
 newyorker.com,wired.com##.newsletter-subscribe-form
 essence.com##.newsletter-subscribe-inline
+apa.org##.newsletter-subscription
 youcouldtravel.com##.newsletter-subscription-block
 rand.org##.newsletter-subscription-box-wrapper
 citizen.co.za##.newsletter-subscription-cta-wrapper
@@ -50462,6 +50464,7 @@ kbb.com##.wp-block-kbb-email-subscription-form
 bikerumor.com,gearjunkie.com##.wp-block-ldm-blocks-call-to-action
 blockclubchicago.org##.wp-block-lede-common-newsletter
 thewrap.com##.wp-block-newsletter-builder-signup-form
+snexplores.org##.wp-block-newsletter-signup
 esecurityplanet.com,project-management.com##.wp-block-newsletter-widget
 observer.com##.wp-block-observer-newsletters
 pewresearch.org##.wp-block-prc-block-promo
