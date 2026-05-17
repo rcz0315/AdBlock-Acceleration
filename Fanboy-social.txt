@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m1WfND2wurq2qbTykKfgmA
-! Version: 202605170222
+! Checksum: YgxJIg5Ryq0KrbBQ1Df7og
+! Version: 202605170801
 ! Title: Fanboy's Social Blocking List
-! Last modified: 17 May 2026 02:22 UTC
+! Last modified: 17 May 2026 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11486,6 +11486,7 @@ crealitycloud.com##.right-share-box
 pulse.com.gh,pulse.ng##.ring-detail-social-share
 reviewjournal.com##.rj-story-social
 outlookindia.com##.rm-social-share
+ringsidenews.com##.rsn-follow-box
 publicbooks.org##.rss
 magazine.artstation.com##.s-bar
 cryptodaily.co.uk##.s-video-h
