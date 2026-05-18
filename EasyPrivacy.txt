@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202605180210
+! Version: 202605180932
 ! Title: EasyPrivacy
-! Last modified: 18 May 2026 02:10 UTC
+! Last modified: 18 May 2026 09:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 07e4e87e77ab5bfabf10ba8154a2324e73f8143a
+! Commit: a738df15db189e6478db227f8d84e5b45afa1bbd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -5461,6 +5461,7 @@ omni.soundestlink.com$image
 ||nprove.com^$third-party
 ||nr-data.net^$third-party
 ||nr7.us^$third-party
+||nresystems.com^$third-party
 ||nrich.ai^$third-party
 ||nstracking.com^$third-party
 ||nuggad.net^$third-party
