@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: B89/ZjRhn7oEb59fFSm/7A
-! Version: 202605211100
+! Checksum: xdvUJAiVMXevXdmGJr2E+A
+! Version: 202605220225
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-05-21 11:00 UTC
+! Last modified: 2026-05-22 02:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16004,7 +16004,7 @@ churchpop.com,dersonntag.at,toofab.com##.social-nav
 eltecolote.org,melmagazine.com,orlandoweekly.com,sacurrent.com,thefrisc.com,worldcrunch.com##.social-navigation
 steveharveyfm.com##.social-network-icons
 adrenaline.com.br,bonsfluidos.com.br,bossip.com,brasil.perfil.com,glamurama.com.br,insidehpc.com,maisnovela.com.br,manequim.com.br,marciapiovesan.com.br,mundoconectado.com.br,sportsbusinessjournal.com,vivasaudedigital.com.br##.social-networks
-cityandstateny.com,govexec.com##.social-options
+cityandstateny.com,defenseone.com,govexec.com##.social-options
 facethefactsusa.org##.social-profiles
 draxe.com##.social-proof-wrapper
 bessiebakes.com,sugarandsoul.co##.social-rocket-floating-buttons
@@ -49744,7 +49744,7 @@ dailymail.co.uk##.newsletter-modal-shopping
 swissinfo.ch##.newsletter-modal__container
 apuntmedia.es,bloomberg.com,forward.com,jns.org,northernvirginiamag.com,sandiegouniontribune.com,tvinsider.com,wamu.org##.newsletter-module
 gobankingrates.com##.newsletter-module-optin--container
-cityandstateny.com##.newsletter-module-subscribe
+cityandstateny.com,defenseone.com##.newsletter-module-subscribe
 poynter.org##.newsletter-nav
 kivitv.com,wmar2news.com##.newsletter-opt
 advocate.com,metro.co.uk##.newsletter-overlay

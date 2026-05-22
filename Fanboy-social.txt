@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vOX4x0pFo8+SWYnfYI8cYA
-! Version: 202605211931
+! Checksum: FD55j3aAhuCoKjeInyeoxA
+! Version: 202605220231
 ! Title: Fanboy's Social Blocking List
-! Last modified: 21 May 2026 19:31 UTC
+! Last modified: 22 May 2026 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11731,7 +11731,7 @@ churchpop.com,dersonntag.at,toofab.com##.social-nav
 eltecolote.org,melmagazine.com,orlandoweekly.com,sacurrent.com,thefrisc.com,worldcrunch.com##.social-navigation
 steveharveyfm.com##.social-network-icons
 adrenaline.com.br,bonsfluidos.com.br,bossip.com,brasil.perfil.com,glamurama.com.br,insidehpc.com,maisnovela.com.br,manequim.com.br,marciapiovesan.com.br,mundoconectado.com.br,sportsbusinessjournal.com,vivasaudedigital.com.br##.social-networks
-cityandstateny.com,govexec.com##.social-options
+cityandstateny.com,defenseone.com,govexec.com##.social-options
 facethefactsusa.org##.social-profiles
 draxe.com##.social-proof-wrapper
 bessiebakes.com,sugarandsoul.co##.social-rocket-floating-buttons
