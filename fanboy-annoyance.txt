@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QHHDaJnP1Bxa3k+1YAky+A
-! Version: 202605230200
+! Checksum: G8IrIKD/FMiAqzZsuiF72w
+! Version: 202605230350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-05-23 02:00 UTC
+! Last modified: 2026-05-23 03:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14874,7 +14874,7 @@ ndtv.com##.FtrScl
 indianexpress.com##.G-folow-button
 meduza.io##.GeneralMaterial-module-share
 newsweek.com##.GooglePreferredSourceBanner_container__4kWoo
-birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,dailystar.co.uk,gloucestershirelive,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.GooglePreferredSource_wrapper__lSRA6
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,dailystar.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.GooglePreferredSource_wrapper__lSRA6
 bdnews24.com##.HeaderTopSocialIcon
 cnbc.com##.HighlightShare-container
 cnbc.com##.HighlightShare-styles-makeit-container--QcXaz
@@ -14895,7 +14895,7 @@ ndtv.com##.SSR_drp
 abc.net.au##.ShareBanner_container__OX63I
 aleteia.org##.ShareBar_link__3gR4V
 manofmany.com##.ShareBar_listItem__6t0E_
-birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,dailystar.co.uk,gloucestershirelive,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,dailystar.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.ShareBar_sharebar-inner-wrapper__D0YTf
 thescore.com##.ShareLinks__container--3C8C4
 meduza.io##.SharePanel-module-root
 hoorayteams.com##.Share_share__FQTKw
@@ -14906,7 +14906,7 @@ asahi.com##.SnsUtilityArea
 ndtv.com##.SoFl_cr-lf-r2
 fdiintelligence.com##.SocialButtonList-sc-17d1xzd
 amusingplanet.com##.SocialButtons
-birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,dailystar.co.uk,gloucestershirelive,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.SocialFollowBar_wrapper__h4k_D
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,dailystar.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,stokesentinel.co.uk,themirror.com,walesonline.co.uk##.SocialFollowBar_wrapper__h4k_D
 cbssports.com##.SocialIconsBar
 suntimes.com,tageblatt.de##.SocialLink
 complex.com##.SocialLinks__SocialButtonsContainer-sc-vif6xs-0
@@ -41565,6 +41565,10 @@ check24.de##+js(set-cookie, c24consent, f, , domain, .check24.de, reload, 1)
 ! io.google
 io.google###cookie-bar-modal
 io.google##body:style(overflow: auto !important; position: initial !important;)
+! uncrossy.com
+uncrossy.com##+js(set, cookieManager, {})
+uncrossy.com##+js(set, cookieManager.initialize, noopFunc)
+uncrossy.com##+js(set, cookieManager.needsConsentBanner, falseFunc)
 !  cosmote.gr
 cosmote.gr##+js(set-cookie, cookie_consent_set, 1)
 ! bm-lille.fr
