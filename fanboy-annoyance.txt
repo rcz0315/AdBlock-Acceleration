@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pfPF5bM9aRfad9iCf9obxA
-! Version: 202605221400
+! Checksum: QHHDaJnP1Bxa3k+1YAky+A
+! Version: 202605230200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-05-22 14:00 UTC
+! Last modified: 2026-05-23 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2342,6 +2342,7 @@ archive.org##.js-donate-banner
 grist.org##.js-membership-ad.membership-ad
 github.com##.js-notice-dismiss[data-analytics-visible]
 themarkup.org##.js-promotion
+19thnews.org##.js-site-banner
 defensescoop.com,fedscoop.com##.js-stickybar
 virgool.io##.js-userLogin-popup.popup-register
 hsph.harvard.edu##.key-takeaways
@@ -2658,6 +2659,7 @@ grist.org##.wp-block-article-donation
 hsph.harvard.edu##.wp-block-hsph-page-footer-cta
 humanists.uk##.wp-block-humanists-uk-bootstrap-campaigns-block
 humanists.uk##.wp-block-humanists-uk-bootstrap-notes-block
+19thnews.org##.wp-block-join-cta
 watchers.news##.wp-block-kadence-infobox
 ms.now##.wp-block-msnbc-announcement
 propublica.org##.wp-block-propublica-callout
@@ -15741,6 +15743,7 @@ lifestyleasia.com##.pre-footer_instagram
 coywolf.com##.preferred
 gsmarena.com##.preferred-source
 cnet.com##.preferred-source-button
+pcgamesn.com##.preferred-sources-button-container
 dailymail.co.uk##.prevNextWrapper-1Vg7e
 opiumpulses.com##.product-nav-tabs-social
 inspiredtaste.net##.profile-icons
