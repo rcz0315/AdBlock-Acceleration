@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606161606
+! Version: 202606162034
 ! Title: EasyPrivacy
-! Last modified: 16 Jun 2026 16:06 UTC
+! Last modified: 16 Jun 2026 20:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 475bbeef2c6fb4531dbf69bbc575e87bb286d057
+! Commit: fb5de9088ce736c37e56fdef7a19eb218427fae0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8005,6 +8005,7 @@ omni.soundestlink.com$image
 ||presetrabbits.com^
 ||presscoder.com^
 ||prettybicycle.com^
+||prettydemo.com^
 ||prettyeasycafe.com^
 ||prettylearning.com^
 ||previousplayground.com^
