@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eig8R0N1vOCP0PyeY0iFlA
-! Version: 202606250231
+! Checksum: 4FjT1MX8ebdKP/MP/0zJAQ
+! Version: 202606250841
 ! Title: Fanboy's Social Blocking List
-! Last modified: 25 Jun 2026 02:31 UTC
+! Last modified: 25 Jun 2026 08:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11012,6 +11012,7 @@ blogto.com##.facebook-round-control
 news.stv.tv##.facebook-share
 moparinsiders.com##.facebook-widget
 thefastmode.com##.facebook_plugin
+fangoria.com##.fang-share
 channelnewsasia.com##.fast-card__share-button
 shepherd.com##.fav3-share
 thefreedictionary.com##.fb-share
