@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UM+A9GPMJ64sLEERi/PDtw
-! Version: 202606271302
+! Checksum: WQrXtLMTzjPWo2jDmOkc7Q
+! Version: 202606271901
 ! Title: Fanboy's Social Blocking List
-! Last modified: 27 Jun 2026 13:02 UTC
+! Last modified: 27 Jun 2026 19:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13712,7 +13712,6 @@ petsmart.com#@#.article-social-sharing
 forbes.kz,vogue.ua,wylecz.to#@#.article__social
 agbi.com#@#.article__socials
 nbcnews.com#@#.article_share
-merlininkazani.com#@#.author-share
 thetoc.gr#@#.authorSocial
 gofile.io#@#.bi-share
 engage.it#@#.block-social
