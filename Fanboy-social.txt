@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DBoL7wEeMjJsdz6h1NNQ/g
-! Version: 202607010242
+! Checksum: 8EFb2Op/6nsMvU/YIo1L1A
+! Version: 202607010922
 ! Title: Fanboy's Social Blocking List
-! Last modified: 01 Jul 2026 02:42 UTC
+! Last modified: 01 Jul 2026 09:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10951,6 +10951,7 @@ columbian.com##.cta
 kcrw.com##.cta-wrapper
 colorado.edu##.cu-share-sidebar
 indiabusinessjournal.com##.cus-sidebar-social-media-connect
+thetab.com##.custom-box-desktop
 therighthairstyles.com##.custom-pinterest-wrap
 dinneratthezoo.com##.cwp-food-footer
 ourworldindata.org##.data-insight-copy-link-button
@@ -11155,7 +11156,7 @@ clinicaltrialsarena.com,just-food.com##.gdm-article-actions
 naval-technology.com,railway-technology.com,verdict.co.uk##.gdm-article-share
 otakuusamagazine.com##.geekmag-share-buttons
 news18.com##.gglebtn
-felixbarbalet.com##.gh-button-share
+felixbarbalet.com,freshfromcache.com##.gh-button-share
 techloy.com,thepickool.com,therage.co,wionews.com##.gh-post-page__share
 gardinerbryant.com##.gh-share-container
 ghacks.net##.ghacks_share_widget
