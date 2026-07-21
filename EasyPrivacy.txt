@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202607210806
+! Version: 202607211308
 ! Title: EasyPrivacy
-! Last modified: 21 Jul 2026 08:06 UTC
+! Last modified: 21 Jul 2026 13:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 591eb2adff1f6f2a8f0484a521dcb3e6a09575cb
+! Commit: 9ba1e53a9d7e6d0a2c7fcd2fc4ebc805d9c84722
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -901,7 +901,6 @@
 /event?s=$ping
 /event_log/*
 /event_logger
-/event_logging/*
 /eventLog.ajax
 /EventLoggerV3.min.js
 /eventLogServlet?
