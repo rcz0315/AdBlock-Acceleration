@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608241226
+! Version: 202608241822
 ! Title: EasyPrivacy
-! Last modified: 24 Aug 2026 12:26 UTC
+! Last modified: 24 Aug 2026 18:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 76e89279f5ee0ac4e3a8355a451a5f3913ef00bd
+! Commit: f9401138f2777ed288ae8b7f378576d50685d166
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7857,6 +7857,7 @@ omni.soundestlink.com$image
 ||lessonsnetwork.com^
 ||libraryfacts.com^
 ||libraryvalue.com^
+||lifecoverdirect.com^
 ||liftedknowledge.com^
 ||lightenafterthought.com^
 ||lighttalon.com^
@@ -7963,6 +7964,7 @@ omni.soundestlink.com$image
 ||memopilot.com^
 ||memorizematch.com^
 ||memorizeneck.com^
+||mentalreef.com^
 ||menteechain.com^
 ||mentorsticks.com^
 ||meowcustom.com^
@@ -7990,6 +7992,7 @@ omni.soundestlink.com$image
 ||miscjewelry.com^
 ||miscreantmoon.com^
 ||missionrewards.com^
+||missvent.com^
 ||mistervillas.com^
 ||mistyhorizon.com^
 ||mittencattle.com^
@@ -17675,7 +17678,6 @@ abema.tv##^script:has-text(NREUM)
 abema.tv##+js(rmnt, script, NREUM)
 ! #endif
 ! phileweb.com
-phileweb.com##+js(set-attr, span[class] img.lazyload[width], src, [data-src])
 ||clarity.ms/tag/$important,script,domain=phileweb.com
 ! e-begin.jp
 e-begin.jp##.inviewSection:not(.is-show):style(transform: translateY(0) !important; opacity: 1 !important;)
