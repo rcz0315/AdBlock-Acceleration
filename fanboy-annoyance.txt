@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F5jxehvl9MhGgLSuNRLNyw
-! Version: 202610030050
+! Checksum: /uczVrxg5nZAcnBLyyyanA
+! Version: 202610030425
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-10-03 00:50 UTC
+! Last modified: 2026-10-03 04:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1907,6 +1907,7 @@ dailymaverick.co.za###in-article-action-1
 thewalrus.ca###inarticle
 scifiinterfaces.com###infinite-footer
 fstoppers.com###inhouse-pushdown
+orissapost.com###jnews_module_slider_3-3
 medicalxpress.com###js-popup-donate
 creativefabrica.com###js-promo-banner
 techcrunch.com###js-promo-banner-countdown
@@ -15656,6 +15657,7 @@ iphoneincanada.ca,teslanorth.com##.item--share
 flyercity.ca##.item_share_area
 theenergymix.com##.jeg_custom_share_wrapper
 psypost.org##.jeg_share_bottom_container
+orissapost.com##.jeg_share_button
 psypost.org,thelondoneconomic.com##.jeg_share_top_container
 news.abplive.com##.join-channels-wrap
 business2community.com##.join-tg
@@ -34782,6 +34784,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ##.recocliv2
 ##.show.cp-wrap
 ! easylist_cookie_thirdparty.txt
+||7gra.us/lgpd-consent.js
 ||acconsento.click^$third-party
 ||akamaihd.net/cpmt/
 ||alicdn.com/puckinn/cookie-consent-sdk/
@@ -43624,6 +43627,8 @@ tvb.com##.tvb-cookies
 hbor.hr###JPO
 vobco.hr###blokDiv
 dokutv.net###cmp_overlay
+faktograf.hr###cmpbox
+faktograf.hr###cmpboxrecall
 liberal.hr###footer
 cistoca.hr,gradskagroblja.hr,hep.hr,vio.hr,zagrebparking.hr###gdc-container
 aktivnosti.zagreb.hr,porezna-uprava.gov.hr###gdc-cookieSettings
@@ -46620,6 +46625,7 @@ fptshop.com.vn##[data-cookie-consent-modal="true"]
 ||factorial.fr/fcm.js
 ||gmx.fr/uim/bidding/consent.js
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
+||iecb.u-bordeaux.fr/js/tarteaucitron/tarteaucitron.min.js
 ||jeu.video^*/partners.js
 ||omelette.bonjour-ratp.fr/gtm.js
 ||privacy.footmercato.net^
@@ -50594,7 +50600,7 @@ landline.media##.mc-embed
 stripes.com##.mc-modal
 stripes.com##.mc-modal-bg
 ganjapreneur.com##.mc-signup
-deltiasgaming.com,gizmodo.com,helpnetsecurity.com,news.usni.org,the-berliner.com,thedriven.io##.mc4wp-form
+deltiasgaming.com,gizmodo.com,helpnetsecurity.com,news.usni.org,orissapost.com,the-berliner.com,thedriven.io##.mc4wp-form
 tedium.co##.md-colorbox
 elespanol.com##.md-suscription
 digg.com##.md\:p-4.p-2.rounded-md
